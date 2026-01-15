@@ -58,6 +58,8 @@ SafeBox/
 - Git installed
 
 ---
+📸 Screenshots
+<img width="1910" height="1037" alt="Screenshot 2026-01-15 203827" src="https://github.com/user-attachments/assets/c249def6-82bb-4e68-9130-fed2e79dfc9c" />
 
 ### Installation
 
